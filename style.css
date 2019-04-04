@@ -1,0 +1,53 @@
+
+#nb {
+font-weight: bold;
+}
+.count{
+  border-top: 1px solid #DADADA ;
+  border-right: 1px solid #DADADA;
+  border-left: 1px solid #DADADA;
+  background-color: #FFFFFF;
+width : 50%;
+display: flex;
+ align-items:center;
+ padding: 15px;
+
+}
+body {
+  background-color: #F5F6FA;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+
+}
+
+h6 {
+  font-size: 14px;
+  margin: 0px;
+
+}
+.trash {
+  width : 15px;
+}
+.avatar {
+  width: 60px;
+  border-radius: 50%;
+  margin-right: 15px;
+
+}
+.row {
+  border-top: 1px solid #DADADA ;
+  border-right: 1px solid #DADADA;
+  border-left: 1px solid #DADADA;
+  background-color: #FFFFFF;
+width : 50%;
+display: flex;
+ align-items:center;
+ padding: 15px;
+
+}
+.last-row {
+  border-bottom: 1px solid #DADADA;
+}
